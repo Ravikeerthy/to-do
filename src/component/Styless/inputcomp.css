@@ -1,0 +1,11 @@
+
+.container{
+    margin: 10px;
+    border: 10px;
+    padding: 20px;
+}
+body{
+    /* background-color: rgb(234, 240, 169); */
+    background: radial-gradient( rgb(108, 84, 84), rgb(147, 226, 147), rgb(139, 139, 243), rgb(234, 234, 156), rgb(241, 158, 241), rgb(234, 202, 144), rgb(244, 157, 157), rgb(108, 84, 84));
+height: 100vh;
+}
